@@ -8,3 +8,7 @@ It's a very simple "Flappy-Bird" Game made with Unity Game-Engine.
 #
 
 ![Bird](./Images/bird.png)
+
+> # Press **`Space`** Key for upward motion of the bird.
+
+#
