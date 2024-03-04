@@ -9,6 +9,6 @@ It's a very simple "Flappy-Bird" Game made with Unity Game-Engine.
 
 ![Bird](./Images/bird.png)
 
-> Press **`Space`** Key for upward motion of the bird.
+> in the Game :  Press_and_Hold the **`Space`** Key for Upward-Motion of the Bird.
 
 #
